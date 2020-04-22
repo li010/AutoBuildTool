@@ -14,5 +14,5 @@ int main(int argc, const char * argv[]) {
         // insert code here...
         [SDXcodeBuild SDXcodeBuildProjectSetBuildType:[SDXcodeBuild SDXcodeBuildType:SDXcodeBuildType_Release]];
     }
-    return 0;
+    return 0;
 }
